@@ -1,28 +1,28 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
+  "Name": "Isaac J. Fuchs",
+  "Currently": "Computer Engineering Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hello, I am Isaac Fuchs. I am a computer engineering student at Seattle Pacific University. I am focused on learning physical electronics and various python based coding languages"
 },
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
+  "EMail": "fuchsi@spu.edu",
+  "Phone": "(509) 862-9776",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "LinkedIn": "https://www.linkedin.com/in/isaac-fuchs/",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": " ",
   "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
+  "Major": "Computer Engineering",
+  "Graduation": "June 2027",
   "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "Employment": "Sudexo ",
+  "Role": "Catering Staff Member",
+  "EmploymentText": "I have worked a large varriety of jobs, from lifeguarding to being a caretaker at a child care center. From my past jobs I have learned to handle difficult schedules and conflicts with other employees. At my current job I am responcible for setting up the majority of exents.",
+  "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis"],
   "SkillsText": "Use this to add some narrative to your skills section",
   "Resume": "student-resume.pdf"  
 },
