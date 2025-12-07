@@ -28,7 +28,7 @@
 },
 "Project1": {
     "Title": "Drone with automatic stabalizing camera",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight. <br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P1Main.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
