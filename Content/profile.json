@@ -35,7 +35,7 @@
   },
   "Project2": {
     "Title": "Mobile Electronic Construction Sign",
-    "Desc": "The Mobile Electronic Construction Sign or MECS, is a remote controller rover designed to fulfill the role of traffic flaggers. It is currently in prototyping stages with each major subsystem being tested seperatly. I am in cahrge of the programming for the rover.<br><br> More details can be found in the screenshots.",
+    "Desc": "The Mobile Electronic Construction Sign or MECS, is a remote controller rover designed to fulfill the role of traffic flaggers. It is currently in prototyping stages with each major subsystem being tested seperatly. I am in charge of the programming for the rover.<br><br> More details can be found in the screenshots.",
     "GitHubRepo": "",
     "MainImage": "Screenshot 2025-12-07 170208.png",
     "DetailImages": ["Screenshot 2025-12-07 170250.png","Screenshot 2025-12-07 170233.png"]
