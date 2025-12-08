@@ -28,14 +28,14 @@
 },
 "Project1": {
     "Title": "Drone with automatic stabalizing camera",
-    "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight. <br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
+    "MainImage": "Screenshot 2025-12-07 163113.png",
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Mobile Electronic Construction Sign",
-    "Desc": "The Mobile Electronic Construction Sign or MECS, is a remote controller rover designed to fulfill the role of traffic flaggers. It is currently in prototyping stages with each major subsystem being tested seperatly. I am in cahrge of the programming for the rover.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Desc": "The Mobile Electronic Construction Sign or MECS, is a remote controller rover designed to fulfill the role of traffic flaggers. It is currently in prototyping stages with each major subsystem being tested seperatly. I am in cahrge of the programming for the rover.<br><br> More details can be found in the screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
