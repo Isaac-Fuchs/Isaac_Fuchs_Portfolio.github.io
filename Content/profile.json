@@ -29,7 +29,7 @@
 "Project1": {
     "Title": "Drone with automatic stabalizing camera",
     "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight.",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "",
     "MainImage": "Screenshot 2025-12-07 163113.png",
     "DetailImages": []
   },
