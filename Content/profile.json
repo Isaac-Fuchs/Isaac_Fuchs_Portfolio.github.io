@@ -4,7 +4,7 @@
   "Currently": "Computer Engineering Student",
   "Headshot": "Isaacpick4.jpg",
   "Thumbnail": "Isaacpick4.jpg",
-  "AboutText": "Hello, I am Isaac Fuchs. I am a computer engineering student at Seattle Pacific University. I am focused on learning physical electronics and various python based coding languages."
+  "AboutText": "Hello, I am Isaac Fuchs. I am a computer engineering student at Seattle Pacific University. I am focused on learning physical electronics and various coding languages. I have experience with Altium Designer, LTSpice and Multisim."
 },
 "Contact": {
   "EMail": "fuchsi@spu.edu",
@@ -22,7 +22,7 @@
   "Employment": "Sudexo ",
   "Role": "Catering Staff Member",
   "EmploymentText": "I have worked a large varriety of jobs, from lifeguarding to being a caretaker at a child care center. From my past jobs I have learned to handle difficult schedules and conflicts with other employees. At my current job I am responcible for setting up the majority of exents.",
-  "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis"],
+  "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis", "Multisim", "LTSpice"],
   "SkillsText": "Outside of employment related skills I play chess at a relativly high level, I am CPR certified, and I am an eagle scout.",
   "Resume": "Isaac Fuchs Resume (1).pdf"  
 },
