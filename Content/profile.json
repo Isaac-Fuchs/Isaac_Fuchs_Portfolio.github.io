@@ -24,11 +24,11 @@
   "EmploymentText": "I have worked a large varriety of jobs, from lifeguarding to being a caretaker at a child care center. From my past jobs I have learned to handle difficult schedules and conflicts with other employees. At my current job I am responcible for setting up the majority of exents.",
   "Skills": ["Circuit python", " Java", " Micropython", " Circuit design and analysis", "Multisim", "LTSpice "],
   "SkillsText": "Outside of employment related skills I play chess at a relativly high level, I am CPR certified, and I am an eagle scout.",
-  "Resume": "Isaac Fuchs Resume (1).pdf"  
+  "Resume": ""  
 },
 "Project1": {
     "Title": "Drone with automatic stabalizing camera",
-    "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. The automaticly stabalizing camera was done through legacy features in Betaflight.",
+    "Desc": "I was one of four team members who designed and built a FPV drone. We used a software called Betaflight to program it, and desgined a custom 3D printed chassis. I was in charge of the automaticly stabalizing camera, which was done through legacy features in Betaflight from several major updates ago.",
     "GitHubRepo": "",
     "MainImage": "Screenshot 2025-12-07 163113.png",
     "DetailImages": []
